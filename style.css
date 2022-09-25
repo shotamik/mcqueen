@@ -32,3 +32,23 @@
 	
 	
 }
+
+.car5 {
+	width: 350px;
+	height: 100px;
+}
+
+
+.img5 {
+	position: absolute;
+	height: 100px;
+	width: 70px;
+	left: 0;
+	top: 540px;
+	animation-name: lol;
+	animation-duration: 5s;
+	animation-delay: 0.3s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	transition-timing-function: linear;
+}
