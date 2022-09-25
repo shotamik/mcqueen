@@ -4,3 +4,23 @@
 	font-size: 100%;
 	box-sizing: border-box;
 }
+
+.car1 {
+	width: 350px;
+	height: 100px;
+}
+
+.img1 {
+	position: absolute;
+	height: 100px;
+	width: 70px;
+	right: 0;
+	top: 180px;
+	animation-name: lmao;
+	animation-duration: 5s;
+	animation-delay: 0.3s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	transition-timing-function: linear;
+	transform: translate(-280px, 0px);
+}
