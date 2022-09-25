@@ -58,3 +58,22 @@
 	height: 356px;
 	
 }
+
+
+@keyframes lol {
+	from {
+		left: 0px;
+	}
+	to {
+		left: 77%;
+	}
+}
+
+@keyframes lmao {
+	from{
+		right: 0%;
+	}
+	to {
+		right: 77%;
+	}
+}
